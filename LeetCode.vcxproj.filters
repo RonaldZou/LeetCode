@@ -35,7 +35,13 @@
     <ClCompile Include="src/LeetCode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\Solution\TwoSum.cpp">
+    <ClCompile Include="src\Solution\Solution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Solution\AddTwoNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Solution\TwoNum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
