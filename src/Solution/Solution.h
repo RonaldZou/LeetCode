@@ -9,9 +9,9 @@ using namespace std;
 class Solution {
 public:
 	static void Solve() {
-		vector<int> sum = { 0, 4, 3, 0 };
-		//vector<int> sum = { 3, 2, 4 };
-		vector<int> nums = twoSum(sum, 0);
+		//vector<int> sum = { 0, 4, 3, 0 };
+		vector<int> sum = { 3, 2, 4 };
+		vector<int> nums = twoSum(sum, 6);
 		for (int i = 0; i < nums.size(); ++i) {
 			cout << nums[i];
 		}
