@@ -24,12 +24,18 @@
     <ClInclude Include="src/targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\Solution\Solution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src/stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="src/LeetCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Solution\TwoSum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
