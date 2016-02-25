@@ -41,6 +41,9 @@
     <ClCompile Include="src\Solution\AddTwoNumbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\Solution\FindMedianSortedArrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="src\Solution\TwoNum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

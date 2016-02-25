@@ -2,6 +2,10 @@
 #include "Solution.h"
 
 void Solution::Solve() {
-	//SolveTwoSum();
-	SolveAddTwoNumbers();
+    //array
+    //SolveTwoSum();
+    SolveFindMedianSortedArrays();
+
+    //list
+    //SolveAddTwoNumbers();
 }
